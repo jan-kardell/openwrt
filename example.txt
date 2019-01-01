@@ -1,0 +1,4 @@
+70255e3d62 OpenWrt v18.06.1: adjust config defaults
+5eb055306f rpcd: update to latest git HEAD
+e11df1eac6 openssl: update to version 1.0.2p
+033472e1bd kernel: bump kernel 4.9 to version 4.9.120
